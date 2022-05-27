@@ -12,26 +12,43 @@ The system mainly works around 2 types of users
 
 
 Following functionalities can be performed by the admin:
+
 • Login
+
 • Register new employees to the system
+
 • Add employee photos to the training data set
+
 • Train the model
+
 • View attendance report of all employees. Attendance can be filtered by date or employee.
 
+
 Following functionalities can be performed by the employee:
+
 • Login
+
 • Mark his/her time-in and time-out by scanning their face
+
 • View attendance report of self
 
 How to run/execute in the computer?
-    clone it on your computer
-    make a separate python virtual environment or use the default one already installed on your machine
-    Download this file
-    put it inside \Attendance-System-Using-Face-Recognition\face_recognition_data directory
-    run pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition directory
-    Run python manage.py runserver inside \Attendance-System-Using-Face-Recognition directory to run the project
+
+   • clone it on your computer
+   
+   • make a separate python virtual environment or use the default one already installed on your machine
+  
+   • Download • is file
+   
+   • put it inside \Attendance-System-Using-Face-Recognition\face_recognition_data directory
+   
+   • run pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition directory
+   
+   • Run python manage.py runserver inside \Attendance-System-Using-Face-Recognition directory to run the project
     
  <h3>Important:</h3>
  for admin login purpose,
+ 
    username- admin
+   
    password-admin
