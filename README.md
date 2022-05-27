@@ -7,8 +7,10 @@ Facial recognition is becoming more prominent in our society. It has made major 
 
 The system mainly works around 2 types of users
 
-Employee
-Admin
+    Employee
+    Admin
+
+
 Following functionalities can be performed by the admin:
 • Login
 • Register new employees to the system
@@ -21,9 +23,15 @@ Following functionalities can be performed by the employee:
 • Mark his/her time-in and time-out by scanning their face
 • View attendance report of self
 
-clone it on your computer
-make a separate python virtual environment or use the default one already installed on your machine
-Download this file
-put it inside \Attendance-System-Using-Face-Recognition\face_recognition_data directory
-run pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition directory
-Run python manage.py runserver inside \Attendance-System-Using-Face-Recognition directory to run the project
+How to run/execute in the computer?
+    clone it on your computer
+    make a separate python virtual environment or use the default one already installed on your machine
+    Download this file
+    put it inside \Attendance-System-Using-Face-Recognition\face_recognition_data directory
+    run pip install -r requirements.txt inside \Attendance-System-Using-Face-Recognition directory
+    Run python manage.py runserver inside \Attendance-System-Using-Face-Recognition directory to run the project
+    
+ <h3>Important:</h3>
+ for admin login purpose,
+   username- admin
+   password-admin
